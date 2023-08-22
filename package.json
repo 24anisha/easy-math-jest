@@ -1,0 +1,25 @@
+{
+  "name": "easy-math-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arithmetic.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --json --outputFile=test-report.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/24anisha/easy-math-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/24anisha/easy-math-jest/issues"
+  },
+  "homepage": "https://github.com/24anisha/easy-math-jest#readme",
+  "dependencies": {
+    "jest": "29.6"
+ }
+}
